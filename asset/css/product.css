@@ -1,0 +1,128 @@
+.prdimage1{
+	background-image:url('../photos/yarn.jpg');
+	border-radius:20px;
+	background-repeat:no-repeat;
+	width:300px;
+	height:250px;
+	background-size:cover;
+	padding-top:165px;
+	padding-bottom:10px;
+}
+
+
+.prdimage2{
+	background-image:url('../photos/agimu1.jpg');
+	border-radius:20px;
+	background-repeat:no-repeat;
+	width:300px;
+	height:250px;
+	background-size:cover;
+	padding-top:170px;
+	padding-bottom:20px;
+}
+
+.prdimage3{
+	background-image:url('../photos/blanket.jpg');
+	border-radius:20px;
+	background-repeat:no-repeat;
+	width:300px;
+	height:250px;
+	background-size:cover;
+	padding-top:170px;
+	padding-bottom:20px;
+}
+
+.prdimage4{
+	background-image:url('../photos/wear.jpg');
+	border-radius:20px;
+	background-repeat:no-repeat;
+	width:300px;
+	height:250px;
+	background-size:cover;
+	padding-top:180px;
+	padding-bottom:20px;
+}
+
+.prdimage5{
+	background-image:url('../photos/machrame1.jpg');
+	border-radius:20px;
+	background-repeat:no-repeat;
+	width:300px;
+	height:250px;
+	background-size:cover;
+	padding-top:180px;
+	padding-bottom:20px;
+}
+
+.prdimage6{
+	background-image:url('../photos/other1.jpg');
+	border-radius:20px;
+	background-repeat:no-repeat;
+	width:300px;
+	height:250px;
+	background-size:cover;
+	padding-top:180px;
+	padding-bottom:20px;
+}
+
+/* lable of product */
+
+.prdimage1 p{
+	background-color:#8A3342;
+	font-family: 'Courier New', monospace;
+	color: white;
+	opacity:0.7;
+	text-align:center;
+	font-size:20px;
+	display:block;
+	}
+	
+.prdimage2 p{
+	background-color:#8A3342;
+	font-family: 'Courier New', monospace;
+	color: white;
+	opacity:0.7;
+	text-align:center;
+	font-size:20px;
+	display:block;
+	}	
+	
+.prdimage3 p{
+	background-color:#8A3342;
+	font-family: 'Courier New', monospace;
+	color: white;
+	opacity:0.7;
+	text-align:center;
+	font-size:20px;
+	display:block;
+	}	
+
+.prdimage4 p{
+	background-color:#8A3342;
+	font-family: 'Courier New', monospace;
+	color: white;
+	opacity:0.7;
+	text-align:center;
+	font-size:20px;
+	display:block;
+	}	
+
+.prdimage5 p{
+	background-color:#8A3342;
+	font-family: 'Courier New', monospace;
+	color: white;
+	opacity:0.7;
+	text-align:center;
+	font-size:20px;
+	display:block;
+	}		
+	
+.prdimage6 p{
+	background-color:#8A3342;
+	font-family: 'Courier New', monospace;
+	color: white;
+	opacity:0.7;
+	text-align:center;
+	font-size:20px;
+	display:block;
+	}		
